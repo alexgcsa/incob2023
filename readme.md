@@ -5,7 +5,7 @@ by [@alexgcsa](https://twitter.com/alexgcsa) and [@proteinmechanic](https://twit
 
 ## Main Colab Notebooks
 
-[Support Vector Classifier (SVC)](https://colab.research.google.com/github/alexgcsa/ml_workshop_Oct2023/blob/master/UnderstandingSVC.ipynb)
+[Support Vector Classifier (SVC)](https://colab.research.google.com/github/alexgcsa/incob2023/blob/master/UnderstandingSVC.ipynb)
 
 
 
@@ -16,8 +16,8 @@ by [@alexgcsa](https://twitter.com/alexgcsa) and [@proteinmechanic](https://twit
 ## Extra Colab Notebooks
 
 The material can be accessed via Google Colab Notebooks:
-- [Classification Colab - Part 1](https://colab.research.google.com/github/alexgcsa/ml_workshop_Oct2023/blob/master/mlw_extra_p1.ipynb)
-- [Classification Colab - Part 2](https://colab.research.google.com/github/alexgcsa/ml_workshop_Oct2023/blob/master/mlw_extra_p2.ipynb)
+- [Classification Colab - Part 1](https://colab.research.google.com/github/alexgcsa/incob2023/blob/master/mlw_extra_p1.ipynb)
+- [Classification Colab - Part 2](https://colab.research.google.com/github/alexgcsa/incob2023/blob/master/mlw_extra_p2.ipynb)
 
 
 ## Local installation
