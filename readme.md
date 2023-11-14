@@ -14,8 +14,9 @@ The main material can be accessed via Google Colab Notebook:
 ## Extra Colab Notebooks
 
 The extra material can be accessed via Google Colab Notebooks:
-- [Classification Colab - Part 1](https://colab.research.google.com/github/alexgcsa/incob2023/blob/master/qmlw_extra_p1.ipynb)
-- [Classification Colab - Part 2](https://colab.research.google.com/github/alexgcsa/incob2023/blob/master/qmlw_extra_p2.ipynb)
+- [Iris Classification Colab](https://colab.research.google.com/github/alexgcsa/incob2023/blob/master/iris.ipynb)
+- [Disease Classification Colab - Part 1](https://colab.research.google.com/github/alexgcsa/incob2023/blob/master/qmlw_extra_p1.ipynb)
+- [Disease Classification Colab - Part 2](https://colab.research.google.com/github/alexgcsa/incob2023/blob/master/qmlw_extra_p2.ipynb)
 
 
 ## Local installation
