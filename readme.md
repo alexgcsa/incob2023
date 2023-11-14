@@ -1,4 +1,4 @@
-# Quantum Machine Learning
+# Quantum Machine Learning - InCoB 2023 
 
 by [@alexgcsa](https://twitter.com/alexgcsa) and [@proteinmechanic](https://twitter.com/proteinmechanic)
 
