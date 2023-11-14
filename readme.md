@@ -44,13 +44,13 @@ $ pip install -r requirements.txt
 ### If you need to run under this environment at any time, use the following command to activate it and open the notebook:
 
 ```bash
-$ conda activate incob_ml
+$ conda activate incob_qml
 
 $ jupyter lab
 ```
 **OR**
 ```bash
-$ conda activate incob_ml
+$ conda activate incob_qml
 
 $ jupyter lab --ip=127.0.0.1 --port=8888
 ```
