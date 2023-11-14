@@ -41,7 +41,7 @@ $ conda install python=3.10
 $ pip install -r requirements.txt
 ```
 
-### If you need to run under this environment at any time, use the following command to activate it and open the notebook:
+### If you need to run under this environment at any time, use the following commands to activate it and open the notebook:
 
 ```bash
 $ conda activate incob_qml
