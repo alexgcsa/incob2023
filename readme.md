@@ -3,19 +3,17 @@
 by [@alexgcsa](https://twitter.com/alexgcsa) and [@proteinmechanic](https://twitter.com/proteinmechanic)
 
 
-## Main Colab Notebooks
-
-[Support Vector Classifier (SVC)](https://colab.research.google.com/github/alexgcsa/incob2023/blob/master/UnderstandingSVC.ipynb)
-
-
+## Main Colab Notebook
+The main material can be accessed via Google Colab Notebook:
+[Understanding Support Vector Classifier (SVC)](https://colab.research.google.com/github/alexgcsa/incob2023/blob/master/UnderstandingSVC.ipynb)
 
 
 
-.
+
 
 ## Extra Colab Notebooks
 
-The material can be accessed via Google Colab Notebooks:
+The extra material can be accessed via Google Colab Notebooks:
 - [Classification Colab - Part 1](https://colab.research.google.com/github/alexgcsa/incob2023/blob/master/mlw_extra_p1.ipynb)
 - [Classification Colab - Part 2](https://colab.research.google.com/github/alexgcsa/incob2023/blob/master/mlw_extra_p2.ipynb)
 
