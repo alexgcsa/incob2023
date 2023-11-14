@@ -48,7 +48,8 @@ $ conda activate workshop_ml
 $ jupyter lab
 ```
 **OR**
-```$ jupyter lab --ip=127.0.0.1 --port=8888
+```bash
+$ jupyter lab --ip=127.0.0.1 --port=8888
 ```
 
 
