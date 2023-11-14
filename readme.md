@@ -45,7 +45,7 @@ $ pip install -r requirements.txt
 ```bash
 $ conda activate workshop_ml
 
-$ jupyterlab
+$ jupyter lab
 ```
 
 
